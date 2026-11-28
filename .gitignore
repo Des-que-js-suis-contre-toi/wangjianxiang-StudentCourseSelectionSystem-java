@@ -1,0 +1,21 @@
+# 构建产物
+out/
+*.class
+
+# 运行时生成的数据文件（首次运行自动生成，不提交）
+courses.txt
+students.txt
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 演示时生成的临时输入
+in.txt
+in*.txt
